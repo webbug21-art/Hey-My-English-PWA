@@ -1,0 +1,13 @@
+{
+  "name": "Hey, My English — Podcast Self-Talk Trainer",
+  "short_name": "My English",
+  "description": "A personal Korean-to-English podcast speaking trainer",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ed",
+  "theme_color": "#161a2b",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
+
